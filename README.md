@@ -10,11 +10,9 @@
 
 <br>
 
-### Hey there! 👋 I'm Ansit Maurya 🇮🇳
+👋 I'm Ansit Maurya 🇮🇳
 
 A B.Tech AI & ML student and Full-Stack Developer who enjoys building, learning, and shipping real-world projects — one commit at a time.
-
-I like working across the stack: wiring up **FastAPI** backends, shaping **APIs** and databases, and putting together clean, responsive UIs in **React**. Most of what I build sits somewhere between **full-stack development** and applied **AI/ML**, and I'm always looking for the next small project to learn something new from.
 
 <br>
 
@@ -60,37 +58,6 @@ I like working across the stack: wiring up **FastAPI** backends, shaping **APIs*
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ansitmaurya&show_icons=true&hide_rank=true&theme=tokyonight" alt="Ansit's GitHub stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansitmaurya&layout=compact&hide_rank=true&theme=tokyonight" alt="Top languages" width="38%" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ansitmaurya&theme=tokyonight" alt="Ansit's GitHub streak" width="60%" />
-
-</div>
-
-> These cards use the public github-readme-stats / streak-stats instances. Both projects are open source and can be self-hosted on Vercel if you ever hit the shared instance's rate limits — see **Placement & Setup** below for the short version of how.
-
-<br>
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ansitmaurya/ansitmaurya/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ansitmaurya/ansitmaurya/output/github-snake.svg">
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/ansitmaurya/ansitmaurya/output/github-snake.svg" width="100%">
-</picture>
-
-</div>
 
 <br>
 
